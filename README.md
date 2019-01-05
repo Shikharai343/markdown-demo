@@ -1,6 +1,6 @@
 # markdown-demo
 
-    <details>
+<details>
         <summary>Life Lessons</summary>
         <p>Sometimes you have to forget what’s gone, appreciate what still remains and look forward to what’s next</p>
     </details>
