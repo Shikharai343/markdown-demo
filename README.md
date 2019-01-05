@@ -3,6 +3,9 @@
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 
+ - - - -
+  ![picture alt](http://www.trendycovers.com/covers/dont_quit_do_it_facebook_cover_1400350437.jpg "Title is optional")
+
 Heading 1
 =============
 
