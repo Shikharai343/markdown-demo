@@ -22,6 +22,10 @@ dumnytext dumnytext **bold**  dumnytext _for bold_ dumnytext dumnytext dumnytext
 
 Heading 2
 ------------
+![picture alt](https://images.unsplash.com/photo-1489710437720-ebb67ec84dd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=60 "Title is optional")
+![picture alt](https://images.unsplash.com/photo-1472162072942-cd5147eb3902?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=60 "Title is optional")
+
+- - - -
 
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
