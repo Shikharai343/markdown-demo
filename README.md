@@ -1,11 +1,11 @@
 # markdown-demo
 
-<details>
-    <summary>Life Lessons</summary>
-    <p>Sometimes you have to forget what’s gone, appreciate what still remains and look forward to what’s next</p>
-</details>
+    <details>
+        <summary>Life Lessons</summary>
+        <p>Sometimes you have to forget what’s gone, appreciate what still remains and look forward to what’s next</p>
+    </details>
+
  - - - -
-  
  > Smile
  >> A smile is the universal welcome
  :relaxed:
