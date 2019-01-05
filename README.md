@@ -1,10 +1,11 @@
 # markdown-demo
 
-dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
-dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
+> Smile
+ >> A smile is the universal welcome
+ :relaxed:
 
  - - - -
-  ![picture alt](http://www.trendycovers.com/covers/dont_quit_do_it_facebook_cover_1400350437.jpg "Title is optional")
+  ![picture alt](http://www.trendycovers.com/covers/Smile_you_are_beautiful_facebook_cover_1342846102.jpg "Title is optional")
 
 Heading 1
 =============
