@@ -20,6 +20,17 @@ dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 dumnytext dumnytext dumnytext dumnytext dumnytext dumnytext
 
----
+```
     npm install -g jsdoc
----
+```
+
+### unordered list
+* step 1
+* step 2
+* step 3
+  
+### ordered list
+1. step 1
+2. step 2
+3. step 3
+   
